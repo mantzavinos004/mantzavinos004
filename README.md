@@ -9,7 +9,7 @@
 Global Ranking: 849
 
 ## CTF Participations
-1753CTF:  team rank 141/467
+1753CTF:  team rank 141/467<br/>
 Cyber Apocalypse CTF 2025: Tales from Eldoria:  team rank 173/3000+
 
 
