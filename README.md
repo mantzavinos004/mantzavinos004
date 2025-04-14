@@ -5,6 +5,13 @@
 🚩 Actively participate in Capture The Flag (CTF) platforms such as Hack The Box and others<br/>
 🏀 I like playing basketball<br/>
 
+## HackTheBox Rank
+Global Ranking: 849
+
+## CTF Participations
+1753CTF:  team rank 141/467
+Cyber Apocalypse CTF 2025: Tales from Eldoria:  team rank 173/3000+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mantzavinos-athanasios) 
