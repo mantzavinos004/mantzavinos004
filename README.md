@@ -6,7 +6,7 @@
 🏀 I like playing basketball<br/>
 
 ## HackTheBox Rank
-Global Ranking: 655
+Global Ranking: 596
 
 ## CTF Participations
 1753CTF:  team rank 141/467<br/>
